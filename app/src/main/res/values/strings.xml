@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">PlandIDRest</string>
+    <string name="app_name">Plant Identification</string>
+    <string name="button_submit">Submit Photo</string>
+    <string name="button_take_photo">Take Photo</string>
 </resources>
